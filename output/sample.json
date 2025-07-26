@@ -1,0 +1,805 @@
+{
+  "title": "Welcome to the",
+  "outline": [
+    {
+      "level": "H1",
+      "text": "Welcome to the",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "\u201cConnecting the Dots\u201d Challenge",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "Round 1A: Understand Your Document",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "Round 1B: Persona-Driven Document Intelligence",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "Appendix:",
+      "page": 10
+    },
+    {
+      "level": "H1",
+      "text": "https://github.com/jhaaj08/Adobe-India-",
+      "page": 10
+    },
+    {
+      "level": "H1",
+      "text": "Hackathon25.git",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "Rethink Reading. Rediscover Knowledge",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "What if every time you opened a PDF, it didn\u2019t just",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "sit there",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "\u2014it",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "spoke to you",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": ",",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "connected ideas",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": ", and",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "narrated meaning",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "across your entire library?",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "That\u2019s the future we\u2019re building \u2014 and we want",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "you",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "to help shape it.",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "In the",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "Connecting the Dots Challenge",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": ", your mission is to reimagine the humble",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "PDF as an intelligent, interactive experience\u2014one that",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "understands structure",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": ",",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "surfaces insights",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": ", and responds",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "to you",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "like a trusted research companion.",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "The Journey Ahead",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "Round 1:",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "Kick things off by building the brains \u2014 extract structured outlines from",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "raw PDFs with blazing speed and pinpoint accuracy. Then, power it up",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "with on-device intelligence that understands sections and links related",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "ideas together.",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "Round 2:",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "It\u2019s showtime! Build a beautiful, intuitive reading webapp using Adobe\u2019s",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "PDF Embed API. You will be using your Round 1 work to design a",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "futuristic webapp.",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "Why This Matters",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "In a world flooded with documents, what wins is not more content \u2014 it\u2019s",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "context",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": ". You\u2019re not just building tools \u2014 you\u2019re building the future of how we",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "read, learn, and connect",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": ". No matter your background \u2014 ML hacker, UI builder,",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "or insight whisperer \u2014 this is your stage.",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "Are you in?",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "It\u2019s time to read between the lines. Connect the dots. And build a PDF",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "experience that feels like",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "magic",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": ". Let\u2019s go.",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "Challenge Theme: Connecting the Dots Through Docs",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "Your Mission",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "You're handed a PDF \u2014 but instead of simply reading it, you're tasked with",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "making sense of it like a machine would. Your job is to extract a structured",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "outline of the document \u2014 essentially the",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "Title",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": ", and headings like",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "H1",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": ",",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "H2",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": ", and",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "H3",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "\u2014 in a clean, hierarchical format.",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "This outline will be the",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "foundation",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "for the rest of your hackathon journey.",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "Why This Matters",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "PDFs are everywhere \u2014 but machines don\u2019t naturally understand their",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "structure. By building an outline extractor, you\u2019re enabling smarter document",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "experiences, like semantic search, recommendation systems, and insight",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "generation.",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "What You Need to Build",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "You must build a solution that:",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "Accepts a",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "PDF file",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "(up to 50 pages)",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "Extracts:",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "Title",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "Headings:",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "H1, H2, H3 (with level and page number)",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "Outputs a valid JSON file in the format below:",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "{",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "\"title\": \"Understanding AI\",",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "\"outline\": [",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "{ \"level\": \"H1\", \"text\": \"Introduction\", \"page\": 1 },",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "{ \"level\": \"H2\", \"text\": \"What is AI?\", \"page\": 2 },",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "{ \"level\": \"H3\", \"text\": \"History of AI\", \"page\": 3 }",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "]",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "}",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "You Will Be Provided",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "1.",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "A",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "sample input PDF",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "(e.g., sample.pdf)",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "2.",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "A",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "sample ground truth output",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "(sample.json) for format clarity",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "3.",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "Sample Dockerfile",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "4.",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "Sample Solution",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "Docker Requirements",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "Please ensure your Dockerfile is compatible with AMD64",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "architecture. Since we will build and run the image on an AMD64",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "machine, your base image and any dependencies should support",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "linux/amd64. Optionally, you can include the following in your",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "Dockerfile to explicitly specify the platform: FROM --",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "platform=linux/amd64 <base_image>",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "CPU architecture:",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "amd64 (x86_64)",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "No GPU dependencies",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "Model size (if used) \u2264 200MB",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "Should work offline \u2014 no network/internet calls",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "Expected Execution",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "We will build the docker image using the following command:",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "```docker build --platform linux/amd64 -t",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "mysolutionname:somerandomidentifier```",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "After building the image, we will run the solution using the run command",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "specified in the submitted instructions.",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "```docker run --rm -v $(pwd)/input:/app/input -v $(pwd)/output:/app/output --",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "network none mysolutionname:somerandomidentifier```",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "Your container should:",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "Automatically process all PDFs from /app/input directory,",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "generating a corresponding filename.json in /app/output for each",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "filename.pdf",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "output.json",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "Constraints",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "Constraint",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "Requirement",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "Execution",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "time",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "\u2264 10 seconds for a 50-page",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "PDF",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "Model size  \u2264 200MB (if used)",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Network",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "No internet access",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "allowed",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Runtime",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Must run on CPU (amd64),",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "your solution should run on",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "the system with 8 CPUs and",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "16 GB RAM configurations",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Scoring Criteria",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Criteria",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Max",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Points",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Heading Detection Accuracy (Precision +",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Recall)",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "25",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Performance (Time & Size Compliance)",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "10",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Bonus: Multilingual Handling (e.g.,",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Japanese)",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "10",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Total",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "45",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Submission Checklist",
+      "page": 5
+    }
+  ]
+}
